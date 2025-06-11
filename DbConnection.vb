@@ -1,5 +1,5 @@
 ﻿Module DbConnection
-    Public conn As New OleDb.OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\jasha\OneDrive\Documents\Expense.accdb;")
+    Public conn As New OleDb.OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=;")
     Public cmd As OleDb.OleDbCommand
 
 
